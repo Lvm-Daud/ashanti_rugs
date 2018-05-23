@@ -1,5 +1,5 @@
 .bgcol1 {
-    background-color: blueviolet;
+    background-color: #5e244c;
 }
 
 .ar-navbar-main {
@@ -45,11 +45,19 @@ h1.one span {
 .ar-panel{
     border-radius: 0;
 }
+.ar-pane2{
+    border-radius: 0;
+    
+}
 .ar-panel .panel-body{
     padding: 5px !important;
 }
+.ar-panel2 .panel-body{
+    background-color: #5e244c;
+    color: #fff;
+}
 .ar-rugs-color{
-    width: 78px; height: 21px; float: left !important; text-decoration: none;
+    width: 78px; height: 21px; float: left !important; text-decoration: none; cursor: pointer;
 }
 .cl1{
     background-color: #c6382e;
@@ -97,4 +105,110 @@ h1.one span {
 .grid-item--width2 { width: 370px; }
 .item.h2 {
     height: 130px;
+}
+.prod-img2{
+    height: 305px !important;
+}
+.footer-brand-l img{
+    margin: 2px;
+}
+.footer-brand-r{
+    text-align: right;
+}
+.footer-brand-r img{
+    margin: 2px;
+}
+.header-usp{
+    width: 135px;
+    float: left;
+    text-transform: uppercase;
+    padding-left: 40px;
+    font-size: 12px;
+    padding-top: 5px;
+    line-height: 13px;
+    padding-bottom: 5px;
+    margin-left: 15px;
+    position: relative;
+}
+.header-usp span {
+    padding-right: 5px;
+}
+.vl {
+    border-left: 1px solid #cccccc;
+    height: 22px;
+    position: absolute;
+    right: 0;
+    top: 7px;
+}
+.ar-search{
+    width: 279px !important;
+    border-radius: 0px;
+    border-color: #333;
+    padding: 9px;
+    font-size: 11px;
+    line-height: 16px;
+    height: 32px;
+    background-image: url('../img/icon_search.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 98%;
+}
+
+.navbar{
+    min-height: unset;
+}
+.navbar-nav>li>a {
+    line-height: 20px;
+    padding: 10px 25px;
+}
+a.ar-ico-a{
+    text-decoration: none;
+}
+a.ar-ico-a img{
+    border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #555;
+    background-color: #e7e7e7;
+}
+
+.logo-con{
+    float: left;
+    width: 173px;
+}
+.logo-con img{
+    width: 100%;
+}
+.usp-con{
+    float: left; margin-top: 30px;margin-left: 25px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .logo-con{
+        float: left;
+        width: 150px;
+    }
+    .usp-con{
+        float: left; margin-top: 30px;margin-left: 10px; 
+    }
+    .header-usp{
+        font-size: 11px !important; width: 118px;
+    }
+    .ar-search{
+        width: 150px !important;
+    }
+    .navbar-nav>li>a {
+        line-height: 20px;
+        padding: 10px 15px;
+    }
+    .ar-header-bg {
+        background-size: contain;
+        height: 245px;
+    }
 }
