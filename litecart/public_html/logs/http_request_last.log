@@ -1,0 +1,201 @@
+## [2018-05-30 16:13:59] Request ##############################
+
+GET /feeds/discussions.rss HTTP/1.1
+Host: www.litecart.net
+User-Agent: LiteCart/2.1.2
+Connection: Close
+
+
+
+## [2018-05-30 16:14:00] Response — 9173 bytes transferred in 1.054 s ##############################
+
+HTTP/1.1 200 OK
+Date: Wed, 30 May 2018 15:14:00 GMT
+Content-Type: application/rss+xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=db2f14d849f862d47d9e23f168a5eea221527693240; expires=Thu, 30-May-19 15:14:00 GMT; path=/; domain=.litecart.net; HttpOnly
+X-Powered-By: LiteCart HQ
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Language: en
+Set-Cookie: LCSESSID=0c5ed0754a3307437e593cf0edbcf7f0; path=/
+Set-Cookie: language_code=en; expires=Fri, 29-Jun-2018 15:14:00 GMT; Max-Age=2592000; path=/
+Set-Cookie: cart[uid]=5b0ebfb80eab2; expires=Thu, 30-May-2019 15:14:00 GMT; Max-Age=31536000; path=/
+Set-Cookie: currency_code=USD; expires=Fri, 29-Jun-2018 15:14:00 GMT; Max-Age=2592000; path=/
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 423225de292535c0-LHR
+
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>LiteCart Forum Discussions</title>
+    <link>https://www.litecart.net/forums/</link>
+    <description>The most recent forum activity.</description>
+    <language>en</language>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Canada postal code format is capitals]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/7872/canada-postal-code-format-is-capitals</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[lucio]]></author>
+      <pubDate>Wed, 30 May 2018 13:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Hold for pickup?]]></title>
+      <link>https://www.litecart.net/forums/7/add-ons/7917/hold-for-pickup</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[pgurney]]></author>
+      <pubDate>Wed, 30 May 2018 01:36:20 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[New search page using fulltext]]></title>
+      <link>https://www.litecart.net/forums/15/errors-and-troubleshooting/5125/new-search-page-using-fulltext</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[theoden]]></author>
+      <pubDate>Wed, 30 May 2018 01:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Expired Products]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/7918/expired-products</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[neilsweb]]></author>
+      <pubDate>Tue, 29 May 2018 21:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Dropshipper]]></title>
+      <link>https://www.litecart.net/forums/7/add-ons/7871/dropshipper</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[bobdrinktech]]></author>
+      <pubDate>Tue, 29 May 2018 12:44:36 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Add-ons]]></category>
+      <title><![CDATA[Email marketing and automated marketing]]></title>
+      <link>https://www.litecart.net/forums/7/add-ons/3510/email-marketing-and-automated-marketing</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[m4ketech]]></author>
+      <pubDate>Tue, 29 May 2018 11:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Attributes section and letter "ą"]]></title>
+      <link>https://www.litecart.net/forums/15/errors-and-troubleshooting/4478/attributes-section-and-letter-a</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[insanebear]]></author>
+      <pubDate>Tue, 29 May 2018 10:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Page width]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/7878/page-width</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[misty]]></author>
+      <pubDate>Tue, 29 May 2018 00:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[ Warning: count(): Parameter must be an array or a]]></title>
+      <link>https://www.litecart.net/forums/15/errors-and-troubleshooting/7857/warning-count-parameter-must-be-an-array-or-a</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[thunderstormy]]></author>
+      <pubDate>Mon, 28 May 2018 21:21:26 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[need free payment checkput add-on module]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/7873/need-free-payment-checkput-add-on-module</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[lucio]]></author>
+      <pubDate>Mon, 28 May 2018 17:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Feature Requests]]></category>
+      <title><![CDATA[The dock setting]]></title>
+      <link>https://www.litecart.net/forums/5/feature-requests/7869/the-dock-setting</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[dcba2008]]></author>
+      <pubDate>Sat, 26 May 2018 02:53:54 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Bug in timezone selector]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/7841/bug-in-timezone-selector</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[juanmas07]]></author>
+      <pubDate>Fri, 25 May 2018 12:56:33 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Feature Requests]]></category>
+      <title><![CDATA[How about GDPR (May 5 2018)]]></title>
+      <link>https://www.litecart.net/forums/5/feature-requests/7758/how-about-gdpr-may-5-2018</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[litecart_cs]]></author>
+      <pubDate>Fri, 25 May 2018 11:41:55 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[how to batch upload the goods ]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/7860/how-to-batch-upload-the-goods</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[dcba2008]]></author>
+      <pubDate>Fri, 25 May 2018 02:45:19 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Installation and Configuration]]></category>
+      <title><![CDATA[Error Connection to Database]]></title>
+      <link>https://www.litecart.net/forums/3/installation-and-configuration/7856/error-connection-to-database</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[profzking]]></author>
+      <pubDate>Fri, 25 May 2018 01:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Has someone csv file for greek language???]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/7839/has-someone-csv-file-for-greek-language</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[nikreve]]></author>
+      <pubDate>Wed, 23 May 2018 21:24:57 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[General Discussions]]></category>
+      <title><![CDATA[Selling addons?]]></title>
+      <link>https://www.litecart.net/forums/2/general-discussions/7848/selling-addons</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[juanmas07]]></author>
+      <pubDate>Wed, 23 May 2018 18:18:30 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Errors and Troubleshooting]]></category>
+      <title><![CDATA[Undefined variable: setting]]></title>
+      <link>https://www.litecart.net/forums/15/errors-and-troubleshooting/7838/undefined-variable-setting</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[areasas]]></author>
+      <pubDate>Wed, 23 May 2018 00:41:52 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Templates and CSS]]></category>
+      <title><![CDATA[Font for confirmation emails]]></title>
+      <link>https://www.litecart.net/forums/12/templates-and-css/6765/font-for-confirmation-emails</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[misty]]></author>
+      <pubDate>Wed, 23 May 2018 00:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <category><![CDATA[Templates and CSS]]></category>
+      <title><![CDATA[How can I change the first product image?]]></title>
+      <link>https://www.litecart.net/forums/12/templates-and-css/7744/how-can-i-change-the-first-product-image</link>
+      <description><![CDATA[]]></description>
+      <author><![CDATA[manel]]></author>
+      <pubDate>Tue, 22 May 2018 18:53:08 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
+
+
