@@ -107,8 +107,8 @@
         </div>
     </div>
     <div class="col-md-12">
-        <button class="btn btn-primary pull-right">
+    <a class="btn btn-info" style="float:right;" href="orders-update.php">
             Place Order
-        </button>
+</a >
     </div>
 </div>

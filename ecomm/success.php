@@ -7,29 +7,22 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
 <?php require 'partials/header.view.php';?>
 
 
-
-
-    <div class="row" style="margin-top:10px;">
-      <div class="small-12">
-        <p>Success. Whatever task you performed, has been executed successfully. Congrats!</p>
-        <p>In case you purchased a product, then please check your spam in email for the receipt.</p>
-
-
-        <footer style="margin-top:10px;">
-           <p style="text-align:center; font-size:0.8em;">&copy; BOLT Sports Shop. All Rights Reserved.</p>
-        </footer>
-
+  
+  <div class="container" style="padding:150px 0px;">
+    
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <p align="center" class="lead">
+        Your order has been successfully placed.
+        </p>
+        <p align="center">
+        Thankyou for shopping with us.
+        </p>
       </div>
     </div>
+    
+  </div>
+  
 
 
-
-
-
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
-  </body>
-</html>
+    <?php require 'partials/footer.view.php';?>
