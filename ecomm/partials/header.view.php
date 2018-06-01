@@ -85,18 +85,9 @@
                 </ul>
               </div>
               <div class="btn-group">
-                <button type="button" class="btn btn-default ar-btn1">
-                  <i class="fa fa-shopping-cart"></i>
-                </button>
-                <button type="button" class="btn btn-default  ar-btn1 dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  <span class="caret"></span>
-                  <span class="sr-only">Toggle Dropdown</span>
-                </button>
-                <ul class="dropdown-menu">
-                  <li>
-                    <a href="cart.php">Cart</a>
-                  </li>
-                </ul>
+                
+                <a class="btn btn-default ar-btn1" href="cart.php"><i class="fa fa-shopping-cart"></i></a>
+                
               </div>
             </div>
 
@@ -200,9 +191,7 @@
                   <li>
                     <a href="products.php">Special Offer</a>
                   </li>
-                  <li>
-                    <a href="orders.php">My Orders</a>
-                  </li>
+                  
                 </ul>
               </div>
               <!-- /.navbar-collapse -->

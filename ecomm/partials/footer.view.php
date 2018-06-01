@@ -43,6 +43,7 @@ $(window).load(function () {
     itemSelector: '.item'
   });
 });
+
 </script>
 
 </body>
